@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AndroidNavigationTexttoSpeechSpeechtoText</string>
+    <string name="Open">AndroidNavigationTexttoSpeechSpeechtoText</string>
+    <string name="Close">AndroidNavigationTexttoSpeechSpeechtoText</string>
 </resources>
